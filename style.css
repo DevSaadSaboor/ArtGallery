@@ -1,0 +1,158 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@800&family=Outfit:wght@300&display=swap");
+.main-div {
+  display: flex;
+}
+.main-wale-div {
+  width: 100vw;
+  background-color: white;
+
+}
+.linear-grdient {
+    background-image: linear-gradient(
+        to right, black
+    );
+}
+
+.black-part {
+  background-color: black;
+  height: 799px;
+  width: 450px;
+}
+.img-of-header {
+  height: 799px;
+  width: 450px;
+}
+.text-modernArtGallery {
+  position: absolute;
+  font-family: "Big Shoulders Display", cursive;
+  font-weight: 900;
+  font-size: 92px;
+  line-height: 1px;
+  color: white;
+  margin-left: 193px;
+  margin-top: 135px;
+}
+.linear-grdient {
+    background: linear-gradient(to right, white 70%, black 30%); 
+    -webkit-background-clip: text; 
+    color: transparent; 
+}
+.linear-grdient-para {
+    color: black;
+}
+
+.text-description {
+  position: absolute;
+  height: 350px;
+  width: 289px;
+  font-family: "Outfit", sans-serif;
+  font-weight: 200;
+  color: black;
+  top: 230px;
+  left: 856px;
+}
+.button1-paragraph {
+  position: relative;
+  background-color: black;
+  height: 40px;
+  width: 150px;
+  color: white;
+  text-align: center;
+  line-height: 32px;
+  left: 850px;
+  bottom: 352px;
+}
+.button1 {
+  position: absolute;
+}
+.svg-image {
+  position: absolute;
+  background-color: #d5966c;
+  height: 40px;
+  width: 30px;
+  left: 666.9%;
+bottom: 368px;
+}
+.main-div-2 {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  /* color: white; */
+}
+
+
+.main-div-3 {
+  display: flex;
+  margin-top: 2%;
+  justify-content: center;
+}
+
+.main-div-4 {
+  margin: 15px;
+}
+
+.main-heading {
+  font-size: 60px;
+  font-family: "Big Shoulders Display", cursive;
+  font-weight: 900;
+  width: 339px;
+}
+.mian-paragraph-heading {
+  font-family: "Outfit", sans-serif;
+  font-weight: 200;
+  width: 219px;
+}
+.image-4 {
+  background-color: black;
+  width: 445px;
+  height: 313px;
+  display: flex;
+  justify-content: center;
+  /* border: 2px solid red; */
+  /* height: 100%; */
+}
+
+.image-3 {
+    margin-top: 15px;
+}
+.image-4-heading-txt {
+    color: white;
+    font-size: 63px;
+    font-family: "Big Shoulders Display", cursive;
+    font-weight: 900;
+}
+.image-4-paragraph-txt {
+    color: white;
+    font-family: "Outfit", sans-serif;
+    font-weight: 200;
+    font-size: 18px
+
+}
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: white;
+    width: 100vw;
+    height: 120px;
+    /* margin-top: 10px; */
+}
+.footer-heading {
+    width: 80px;
+    font-family: "Big Shoulders Display", cursive;
+    font-weight: 900;
+    font-size: 20px;
+    
+
+    
+}
+.footer-paragraph {
+    /* width: 56px; */
+    width: 360px;
+}
+.image-4-txt {
+    padding: 21px;
+}
